@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.variable {
+  color: orange;
+  display: inline-block;
+  background: #eee;
+  padding: 0 4px;
+  border-radius: 2px;
+}
+
+.editable {
+  border: 1px solid slategrey;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
